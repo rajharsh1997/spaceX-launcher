@@ -22,15 +22,14 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "build-ssr": "npm install && npm run build",
-    "start-ssr": "node index.js",
-    "heroku-postbuild": "npm install && npm run build"
+    "start-ssr": "node index.js"
   },
   "engines": {
     "node": "12.x"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/prakhar-shukla/spacex-launch-programs"
+    "url": "git+https://github.com/rajharsh1997/spaceX-launch"
   },
   "eslintConfig": {
     "extends": "react-app"

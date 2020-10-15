@@ -1,5 +1,5 @@
 # Spacex Launch Programs
-[View App](https://spacex-launchprogram.herokuapp.com/)
+[View App](https://spacex-launch.vercel.app/)
 
 ## About the project
 
