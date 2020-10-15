@@ -1,0 +1,46 @@
+.backdrop {
+  position: fixed;
+  background: rgba(0, 0, 0, 0.5);
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: 10;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.rocket {
+  position: absolute;
+  bottom: -600px;
+  animation: fly 3s linear infinite;
+  height: 40%;
+  width: 60%;
+}
+
+@keyframes fly {
+  0% {
+    bottom: -600px;
+  }
+  100% {
+    bottom: 100%;
+  }
+}
+
+@media only screen and (min-width: 600px) {
+  .rocket {
+    left: 35%;
+    height: 350px !important;
+    width: 350px !important;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) and (-webkit-min-device-pixel-ratio: 2) {
+  .rocket {
+    left: 24%;
+  }
+}
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) and (-webkit-min-device-pixel-ratio: 2) {
+  .rocket {
+    left: 24%;
+  }
+}
