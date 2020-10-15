@@ -18,7 +18,7 @@ The application is deployed on **Vercel**.
 
 ## Highlights
 + Application is server-side rendered, which helps in boosting the initial page load time and increasing the SEO scores.
-+ Fully responsive to covers all range of device like pc, mobile and tablet
++ Fully responsive to cover all range of devices like pc, mobile and tablet
 
 ## Available Scripts
 
