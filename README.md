@@ -20,9 +20,9 @@ The application is deployed on **Vercel**.
 + Application is server-side rendered, which helps in boosting the initial page load time and increasing the SEO scores.
 + Fully responsive to cover all range of devices like pc, mobile and tablet
 
-**Using [web.dev](https://web.dev/measure)**
+**Lighthouse score using [web.dev](https://web.dev/measure)**
 
-![lighthouse score](https://www.filehosting.org/file/details/900006/webDev.PNG)
+![lighthouse score](https://imgur.com/a/ssgid0N)
 
 
 ## Available Scripts
