@@ -1,4 +1,4 @@
-# Spacex Launch App
+# SpaceX Launcher App
 [View App](https://spacex-launcher.vercel.app/)
 
 ## About the project
