@@ -1,5 +1,5 @@
 # Spacex Launch App
-[View App](https://spacex-launch.vercel.app/)
+[View App](https://spacex-launcher.vercel.app/)
 
 ## About the project
 
@@ -7,6 +7,7 @@ This web app is for viewing launch program list of spaceX. It needs spaceX publi
 It is a single page application, for which the given libraries are required:
 + react
 + redux
++ redux-thunk
 + react-router
 
 The application is served by a node.js server which also renders the initial landing page. Following libraries are used by the node.js server:
@@ -16,8 +17,8 @@ The application is served by a node.js server which also renders the initial lan
 The application is deployed on **Vercel**.
 
 ## Highlights
-- Application is server-side rendered, which helps in boosting the initial page load time and increasing the SEO scores.
-- Fully responsive to covers all range of device like pc, mobile an tablet
++ Application is server-side rendered, which helps in boosting the initial page load time and increasing the SEO scores.
++ Fully responsive to covers all range of device like pc, mobile and tablet
 
 ## Available Scripts
 
