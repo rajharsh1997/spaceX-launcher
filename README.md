@@ -22,7 +22,7 @@ The application is deployed on **Vercel**.
 
 **Lighthouse score using [web.dev](https://web.dev/measure)**
 
-![lighthouse score](https://imgur.com/SqpdFBw)
+![lighthouse score](https://i.ibb.co/b6yVsTr/webDev.png)
 
 
 ## Available Scripts
