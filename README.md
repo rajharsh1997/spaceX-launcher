@@ -13,20 +13,17 @@ The application is served by a node.js server which also renders the initial lan
 + express
 + babel
 
-
 The application is deployed on **Vercel**.
 
 ## Highlights
 - Application is server-side rendered, which helps in boosting the initial page load time and increasing the SEO scores.
 - Fully responsive to covers all range of device like pc, mobile an tablet
 
-
 ## Available Scripts
 
-To run the project on local machine use following commands:
+To run the apllication, use following commands:
 
-### `npm run build-ssr`
-### `npm run start-ssr`
+**`npm run build-ssr`**
+**`npm run start-ssr`**
 
-
-Following this, open [http://localhost:3001](http://localhost:3001) to view it in the local browser.
+After this, open [http://localhost:3001](http://localhost:3001) to view it in the web browser.
