@@ -1,4 +1,4 @@
-# Spacex Launch Programs
+# Spacex Launch App
 [View App](https://spacex-launch.vercel.app/)
 
 ## About the project
@@ -14,7 +14,7 @@ The application is served by a node.js server which also renders the initial lan
 + babel
 
 
-The application is deployed on **Heroku**.
+The application is deployed on **Vercel**.
 
 ## Highlights
 - Application is server-side rendered, which helps in boosting the initial page load time and increasing the SEO scores.
