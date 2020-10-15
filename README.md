@@ -1,5 +1,5 @@
 # SpaceX Launcher App
-[View App](https://spacex-launcher.vercel.app/)
+[Go to App](https://spacex-launcher.vercel.app/)
 
 ## About the project
 
