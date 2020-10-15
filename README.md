@@ -9,16 +9,14 @@ It is a single page application, for which the given libraries are required:
 + redux
 + redux-thunk
 + react-router
-
-The application is served by a node.js server which also renders the initial landing page. Following libraries are used by the node.js server:
-+ express
-+ babel
++ express (node.js)
++ babel (node.js)  
 
 The application is deployed on **Vercel**.
 
-## Highlights
-+ Application is server-side rendered, which helps in boosting the initial page load time and increasing the SEO scores.
-+ Fully responsive to cover all range of devices like pc, mobile and tablet
+## Features
++ Application is server-side rendered, which helps in increasing the initial page load time and increasing the SEO scores.
++ Fully responsive by design to cover all range of devices like pc, mobile and tablet
 
 **Lighthouse score using [web.dev](https://web.dev/measure)**
 
@@ -32,4 +30,4 @@ To run the apllication, use following commands:
 **`npm run build-ssr`**
 **`npm run start-ssr`**
 
-After this, open [http://localhost:3001](http://localhost:3001) to view it in the web browser.
+After running the script, open [http://localhost:3001](http://localhost:3001) to view it in the web browser.
